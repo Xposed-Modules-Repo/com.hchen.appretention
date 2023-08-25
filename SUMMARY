@@ -1,0 +1,2 @@
+Achieving app retention by modifying the system kill logic through Hook. Support for Android 12, 13.
+本模块通过Hook系统kill逻辑来实现后台保活,支持安卓12，13。

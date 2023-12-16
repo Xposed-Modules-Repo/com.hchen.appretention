@@ -2,10 +2,10 @@
 <h1>AppRetentionHook</h1>
 
 ![stars](https://img.shields.io/github/stars/HChenX/AppRetentionHook?style=flat)
-![downloads](https://img.shields.io/github/downloads/HChenX/AppRetentionHook/total)
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/Com.HChen.Hook/total)
 ![Github repo size](https://img.shields.io/github/repo-size/HChenX/AppRetentionHook)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/HChenX/AppRetentionHook)](https://github.com/HChenX/AppRetentionHook/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/HChenX/AppRetentionHook)](https://github.com/HChenX/AppRetentionHook/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/Com.HChen.Hook)](https://github.com/Xposed-Modules-Repo/Com.HChen.Hook/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/Com.HChen.Hook)](https://github.com/Xposed-Modules-Repo/Com.HChen.Hook/releases)
 ![last commit](https://img.shields.io/github/last-commit/HChenX/AppRetentionHook?style=flat)
 ![language](https://img.shields.io/badge/language-java-purple)
 
